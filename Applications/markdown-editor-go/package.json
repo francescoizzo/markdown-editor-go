@@ -1,0 +1,26 @@
+{
+  "name": "markdown-editor-go",
+  "version": "1.0.0",
+  "description": "A Markdown note-taking app written in Go",
+  "keywords": [
+    "markdown",
+    "editor",
+    "go",
+    "note"
+  ],
+  "homepage": "https://github.com/francescoizzo/markdown-editor-go#readme",
+  "bugs": {
+    "url": "https://github.com/francescoizzo/markdown-editor-go/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/francescoizzo/markdown-editor-go.git"
+  },
+  "license": "MIT",
+  "author": "Francesco Izzo",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "vite"
+  }
+}

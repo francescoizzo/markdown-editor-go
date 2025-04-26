@@ -1,0 +1,20 @@
+{
+    "name": "markdown-editor",
+    "outputfilename": "markdown-editor",
+    "frontend:dir": "frontend",
+    "frontend:install": "npm install",
+    "frontend:build": "npm run build",
+    "frontend:dev:watcher": "npm run dev",
+    "frontend:dev:serverUrl": "auto",
+    "author": {
+      "name": "Markdown Editor Team",
+      "email": "contact@example.com"
+    },
+    "info": {
+      "companyName": "Markdown Editor",
+      "productName": "Markdown Editor",
+      "productVersion": "1.0.0",
+      "copyright": "© 2023 Markdown Editor",
+      "comments": "A modern Markdown editor built with Go and Wails"
+    }
+  }

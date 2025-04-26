@@ -1,0 +1,21 @@
+{
+    "name": "markdown-editor-frontend",
+    "version": "1.0.0",
+    "description": "Frontend for Markdown Editor",
+    "main": "index.js",
+    "scripts": {
+      "dev": "vite",
+      "build": "vite build",
+      "preview": "vite preview"
+    },
+    "keywords": [
+      "markdown",
+      "editor",
+      "wails"
+    ],
+    "author": "Markdown Editor Team",
+    "license": "MIT",
+    "devDependencies": {
+      "vite": "^4.3.9"
+    }
+  }
